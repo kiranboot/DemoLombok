@@ -1,16 +1,22 @@
 # DemoLombok
+
+ARCH Types
 starter project
 -web
 -lombok
 
+
 Addedd Address VO and Address Controller under Address package
 
+
 Tried with below annotations from lombok on Address VO
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 
 and below Annotation on AddressController for logging
+
 @Log
 
 
