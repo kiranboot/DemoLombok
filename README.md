@@ -26,4 +26,7 @@ and below Annotation on AddressController for logging
    
 Sol.
    Address package should be next to DemoLombokApplication.java file
-   and while startinger boot server in the log you should get Mapped and all the endpoints you have given in the controller.
+   
+   and while startinger boot server in the log you should get Mapped 
+   
+   and all the endpoints you have given in the controller.
